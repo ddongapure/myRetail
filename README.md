@@ -19,13 +19,13 @@ restdemo service is built on Spring Boot framework with dependencies including M
 5) Postman https://www.getpostman.com/
 
 # Installing
-Clone the code from git repository - https://github.com/ddongapure/myRetail.git
-Install MongoDB in your system - https://docs.mongodb.com/manual/installation/
-Run MongoDB - Run 'mongod.exe' in order to start Mongodb
-Before starting webservices server make sure that Mongodb is running on port number mentioned in the application.properties file
-Make sure you are in the restdemo directory:in the project root, 
+1) Clone the code from git repository - https://github.com/ddongapure/myRetail.git
+2) Install MongoDB in your system - https://docs.mongodb.com/manual/installation/
+3) Run MongoDB - Run 'mongod.exe' in order to start Mongodb
+4) Before starting webservices server make sure that Mongodb is running on port number mentioned in the application.properties file
+5) Make sure you are in the restdemo directory:in the project root, 
 run the mvn spring-boot:run command to compile the code and start the Spring TomcatWebServer with the default port 8080 or 8090 as mentioned in application.properties(server.port).
-Once the server starts, you can test your API with a REST client such as Postman.
+6) Once the server starts, you can test your API with a REST client such as Postman.
 
 # How to test the webservices using PostMan client
 
