@@ -60,5 +60,5 @@ and the response should be:
 
 # Running the tests
 The testcases are present in the file: ProductControllerTests.java and can be run by the right click option in IntelliJ IDE or by cmnd: mvn clean test.
-Images are provided to show successful and failure resposnses for API requests in the images folder.
+Images are provided to show successful and failure responses for API requests in the images folder.
 
