@@ -12,11 +12,11 @@ restdemo service is built on Spring Boot framework with dependencies including M
 
 
 # Prerequisites
-Java Spring Boot framework https://projects.spring.io/spring-boot/
-Maven https://maven.apache.org/
-MongoDB https://www.mongodb.com/
-MongoDB Compass: database manager.
-Postman https://www.getpostman.com/
+1) Java Spring Boot framework https://projects.spring.io/spring-boot/
+2) Maven https://maven.apache.org/
+3) MongoDB https://www.mongodb.com/
+4) MongoDB Compass: database manager.
+5) Postman https://www.getpostman.com/
 
 # Installing
 Clone the code from git repository - https://github.com/ddongapure/myRetail.git
